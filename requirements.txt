@@ -1,1 +1,14 @@
+git+https://github.com/dolfies/discord.py-self
 
+
+curl-cffi==0.5.10
+
+
+aiohttp==3.7.4.post0
+async-timeout==3.0.1
+chardet==4.0.0
+
+
+colorama    # Làm màu cho Menu Termux
+requests    # Gửi HTTP request phụ
+pytz        # Xử lý múi giờ
