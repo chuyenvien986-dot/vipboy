@@ -1,7 +1,7 @@
 const { Client } = require('discord.js-selfbot-v13');
 const client = new Client({ checkUpdate: false });
 
-const TOKEN = "MTM5OTcyMTAyNTU1Nzc2MjE3MA.GRDL-w.NpVpKeMowaqi9MSlT2Y1VF3v6onVLXsobbr1Ek";
+const TOKEN = "";
 const PREFIX = "!";
 
 // --- KHO NGÔN SIÊU CẤP ---
